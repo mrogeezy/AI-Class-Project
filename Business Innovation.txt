@@ -1,0 +1,74 @@
+﻿Business Innovation
+
+
+* AI is three different things:
+   * ANI - Artificial Narrow Intelligence - One trick pony. AI that can do one thing. Ex: You drive a car (only doing one thing). Ex: Recommenders.
+      * There are two types of ANI:
+         * Supervised: I can start to identify trends in my data and then put an AI model towards it like predictive analytics. Also, prescriptive analytics can be formed.
+         * Unsupervised: 
+   * AGI - Artificial General Intelligence - Are machines that can emulate most of human capabilities (reasoning, logic, cognitive functions of humans). Ex: GPT’s.
+   * ASI - Artificial Super Intelligence - You have AI and to make itself better. AI that writes code to make itself better. Ex: The Matrix.
+* Machine learning is only letting the machine learn human capabilities (cognitive functions).
+* Deep learning is going to emulate the learning capabilities of humans by modeling the structure of the human brain.
+   * Inside of deep learning there is Gen AI. This is a type of deep learning. Difference between Deep Learning and Generative AI is that we have machines that can emulate short term memory.
+* A data scientist needs to have some sort of business acumen and apply it with AI.
+   * They are the most prized resource in the tech industry. They know how to monetize AI
+* AI is the biggest and broadest umbrella of the three.
+
+
+* AI is a simple input to output methods. You transform one dataset into another dataset. It is like a spreadsheet and it can be called a matrix. You run this through a function and then it will output a new matrix. The last part of the output is the prediction.
+* What is the caveman definition of AI? A lot of people get caught up with the DNA and complexity of AI.
+
+
+* Neurons find only one pattern in the data. You have various neurons and all the neurons get all of the data.
+   * Temperature and water level can predict the health of the tree. 
+   * If you know the fertilizer score then you can predict the growth rate.
+   * If you know how many bees are roaming you can then predict pollinate success.
+* All of this will be combined and it will give you your yield of orange growth.
+* Only thing you need to do is pour all of your data into the neural network and then it will figure out all the metrics by itself. The more data you provide the better the network gets.
+* Neurons are like members of the council. Everyone gets the same data and everyone makes the final decision.
+* ChatGPT-3 had 175 million neurons.
+* ChatGPT-4 has 405 billion neurons.
+* Sentiment analysis is big in GPT’s
+   * AI is now getting in our heads to see our emotions and emotional behaviors.
+
+
+* Theory of mind: referring to our ability to understand and predict the feelings of others.
+   * Someone has a reality in their head and when they talk to someone else they try to transfer their reality into the person. You can gauge it through microexpressions, facial and body expressions, etc.
+* The way to express your realities is through communication. Some people say that language is the shadow of reality.
+* GPT’s are learning our reality not our language. It is trying to reconstruct our reality based on the text and info we give it.
+* AGI is where we are right now. 
+* We are pushing towards an aligned AGI, which means an AI that not only follows instructions but also aligns with human values and ethics.
+
+
+
+
+Together AI
+NootbookLM
+
+
+Lecture 02
+* Machine learning: historical data only. Majority of AI that exists is you take historical data, you have a model, extract insights, then generate an output.
+* Input → Output
+   * The arrow is the AI. Data in the input and output is the prediction
+   * Ex: email → model → spam = spam filter
+   * Ex: english → model → spanish = speech translation
+* Why do we have this explosion?
+   * These algorithms have been around since the late 50s-60s. Recently, Google invented big data (Hadoop). They realized that they wanted to archive the entire internet. They wanted to shard the data instead of having one warehouse (data is in many warehouses).
+   * We now have around 44 zettabytes of data.
+   * You give a neural network enough data it can identify all kinds of patterns.
+      * The more data you give the neural network the better it becomes.
+* Google tag manager
+* Managing data is hard and an underrated skill is being able to clean the data.
+* Mechanical turk is using humans to make a process better
+* A lot of the time data is being misused and there is a bunch of hype around it.
+   * Tons of data does not correlate to valuable data
+* Data is messy
+   * Missing values
+   * Incorrect labels
+   * Multiple types of data. Unstructured = images, audio, text. Structured data = excel sheets
+* Difference between machine learning and data science
+   * Machine learning engineers are more of the tech and programming (software). But, these engineers do not have deep industry experience.
+   * Data scientists ideate the solutions. They find insights in the data and see how it applies (powerpoint presentation).
+* Deep learning is a type of AI that models the human brain. Neurons identify a different pattern in the data. 
+* What makes a company good at AI?
